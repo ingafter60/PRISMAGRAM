@@ -17,19 +17,22 @@ Instagram Clone with Express + Prisma + React + React Native
         new file:   src/server.js
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### 1.1 Creating GraphQL Server (6-05)
+
+        new file:   .babelrc
+        modified:   README.md
+        modified:   package-lock.json
+        modified:   package.json
+        modified:   src/server.js
+
+
+
+
+
+
+
+
+
 ### 1.2 Setting Up the Server like the Pros (11-17)
 
 2 Setting Up Prisma
